@@ -114,7 +114,19 @@ button:hover {
   justify-content: center;
 }
 
-.social-icon ul {
+
+
+
+/* CSS for the footer */
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  
+  .social-icon ul {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -153,16 +165,5 @@ button:hover {
 .social-icon li a.twitter:hover .fab {
   color: #00acee;
 }
-
-
-/* CSS for the footer */
-
-
-footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 1rem;
-  
   
 }
